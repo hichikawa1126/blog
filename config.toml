@@ -1,4 +1,4 @@
-baseURL = "https://blog.hichikawa1126.me"
+baseURL = "https://hichikawa1126.me"
 languageCode = "ja"
 title = "Blog"
 theme = "ananke"

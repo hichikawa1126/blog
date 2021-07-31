@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blog</title>
+    <link>https://hichikawa1126.me/posts/</link>
+    <description>Recent content in Posts on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 31 Jul 2021 16:26:19 +0900</lastBuildDate><atom:link href="https://hichikawa1126.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ブログを始めます</title>
+      <link>https://hichikawa1126.me/posts/create-new-blog/</link>
+      <pubDate>Sat, 31 Jul 2021 16:26:19 +0900</pubDate>
+      
+      <guid>https://hichikawa1126.me/posts/create-new-blog/</guid>
+      <description>始めたきっかけ きっかけは2点あります。
+とりあえず1から構築・改修できるプロダクトを作りたかった まず1つ目は、自分で1から構築・改修できるプロダクトを作っておきたかったという点です。 仕事柄、フェーズによっては常に要件定義をしたり、SaaSの比較・検証を行うこともあり、業務で実装や技術に触れる機会が減っていることに気づきました。 個人アプリを作るという選択肢もあったものの、すぐ構築できるという点でブログを選択しました。
+アウトプット出来る場を作っておきたい これまではあまりアウトプット思考がなく、書いてもアドベントカレンダーくらいでしたが、今年から学んだことをアウトプットしていくことを目標の一つにしています。 QiitaやZennもあるのですが、上述した理由 + 技術的にあまり関係ない学び(ビジネススキル)もアウトプットしていきたいなと思っており、個人ブログを選択しました。
+コンテンツとしては、
+ 業務、プライベートの学習から学んだこと 積読している本から学んだこと 資格試験のこと  を書いていこうと思います。
+このブログで使用している技術要素 当初はNuxt.js + microCMSで作ろうかなと思っていましたが、作り込むのが結構大変そうだったので、Markdownで記事を書くことができるHugoを採用することにしました。 また、Netlifyにホスティングしようかなと考えていましたが、Netlifyは以前使用したことがあるのとパフォーマンスが思うように上がらないという噂を耳にしたので、今回はCloudflare Pagesを利用して作ることにしました。
+今はまだブログのデザインもデフォルトテーマのままですが、フォントやデザインを少しづつ修正していきたいと思います。
+（頑張って習慣づけたい）</description>
+    </item>
+    
+  </channel>
+</rss>
