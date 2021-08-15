@@ -2,3 +2,7 @@ baseURL = "https://hichikawa1126.me"
 languageCode = "ja"
 title = "Blog"
 theme = "ananke"
+
+[params]
+  description = "ITコンサルで働く会社員の日記"
+  images = ["/images/mh.png"]
